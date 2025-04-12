@@ -30,8 +30,7 @@
     </developers>
     <scm>
         <connection>scm:git:https://github.com/LiuHao-211222/spring-boot-starter-response.git</connection>
-        <developerConnection>scm:git:https://github.com/LiuHao-211222/spring-boot-starter-response.git
-        </developerConnection>
+        <developerConnection>scm:git:https://github.com/LiuHao-211222/spring-boot-starter-response.git</developerConnection>
         <url>https://github.com/LiuHao-211222/spring-boot-starter-response</url>
     </scm>
     <issueManagement>
