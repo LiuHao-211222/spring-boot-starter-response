@@ -1,4 +1,4 @@
-package com.liuhao.response.exception;
+package com.github.liuhao.response.exception;
 
 /**
  * @ Description   :  异常工厂实现

@@ -1,4 +1,4 @@
-package com.liuhao.response.model;
+package com.github.liuhao.response.model;
 
 import java.util.ArrayList;
 import java.util.Collection;

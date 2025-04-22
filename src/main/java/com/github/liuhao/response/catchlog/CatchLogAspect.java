@@ -1,9 +1,9 @@
-package com.liuhao.response.catchlog;
+package com.github.liuhao.response.catchlog;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.serializer.SerializerFeature;
-import com.liuhao.response.exception.BizException;
-import com.liuhao.response.exception.SysException;
+import com.github.liuhao.response.exception.BizException;
+import com.github.liuhao.response.exception.SysException;
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
@@ -26,7 +26,7 @@ public class CatchLogAspect {
     /**
      *  <a href="https://blog.csdn.net/zhengchao1991/article/details/53391244">The syntax of pointcut </a>
      */
-    @Pointcut("@within(CatchAndLog) && execution(public * *(..))")
+    @Pointcut("@within(com.github.liuhao.response.catchlog.CatchAndLog) && execution(public * *(..))")
     public void pointcut() {
     }
 

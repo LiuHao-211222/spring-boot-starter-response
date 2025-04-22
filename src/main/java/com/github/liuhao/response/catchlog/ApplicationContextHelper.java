@@ -1,4 +1,4 @@
-package com.liuhao.response.catchlog;
+package com.github.liuhao.response.catchlog;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.BeansException;

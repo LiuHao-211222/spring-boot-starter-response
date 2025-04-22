@@ -1,4 +1,4 @@
-package com.liuhao.response.exception;
+package com.github.liuhao.response.exception;
 
 /**
  * Base Exception is the parent of all exceptions

@@ -1,4 +1,4 @@
-package com.liuhao.response.exception;
+package com.github.liuhao.response.exception;
 
 import java.util.Collection;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.liuhao.response.exception;
+package com.github.liuhao.response.exception;
 
 /**
  * BizException is known Exception, no need retry

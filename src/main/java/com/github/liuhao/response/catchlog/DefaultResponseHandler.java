@@ -1,8 +1,8 @@
-package com.liuhao.response.catchlog;
+package com.github.liuhao.response.catchlog;
 
 
-import com.liuhao.response.exception.BaseException;
-import com.liuhao.response.model.Response;
+import com.github.liuhao.response.model.Response;
+import com.github.liuhao.response.exception.BaseException;
 import lombok.extern.slf4j.Slf4j;
 
 /**

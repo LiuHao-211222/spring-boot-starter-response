@@ -1,4 +1,4 @@
-package com.liuhao.response.model;
+package com.github.liuhao.response.model;
 
 /**
  * Response to caller

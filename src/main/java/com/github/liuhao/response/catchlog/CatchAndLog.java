@@ -1,4 +1,4 @@
-package com.liuhao.response.catchlog;
+package com.github.liuhao.response.catchlog;
 
 /**
  * CatchAndLog
